@@ -6,9 +6,9 @@
 
 # MCS8051内核的MCU单片机例程
 
-#Gitee仓库地址：[https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
+### 👀Gitee仓库地址：[https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
 
-#Github仓库地址：[https://github.com/makermare/MCS8051-MCU-](https://github.com/makermare/MCS8051-MCU-)
+### 👀Github仓库地址：[https://github.com/makermare/MCS8051-MCU-](https://github.com/makermare/MCS8051-MCU-)
 
 ### 介绍
 您不错的入门C语言和单片机的好例程，
