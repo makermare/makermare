@@ -5,9 +5,12 @@
 - 📫 How to reach me ...
 
 # MCS8051内核的MCU单片机例程
+##Gitee仓库地址：[https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
+##Github仓库地址：[https://github.com/makermare/MCS8051-MCU-](https://github.com/makermare/MCS8051-MCU-)
 
 ### 介绍
 您不错的入门C语言和单片机的好例程，
+
 对应视频教程在[B站搜索创客海社区](https://space.bilibili.com/167945395)
 所有例程和视频基于创客海的新起点51单片机实验板，
 作者凡哥，邮箱fan@makermare.com
