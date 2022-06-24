@@ -17,7 +17,7 @@
 
 # MCS8051内核的MCU单片机例程
 
-### [新起点51单片机实验板购买](https://www.bilibili.com/video/BV1y54y1Z7uz)
+### [新起点51单片机开发板购买](https://item.taobao.com/item.htm?id=677525446299)
 
 ### [B站地址](https://www.bilibili.com/video/BV1y54y1Z7uz)
 
