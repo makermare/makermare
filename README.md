@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 # 全国大学生电子设计竟赛四轴无人机组摄像头寻线追小车检测直角点完整及Light飞控推荐教程合集
+
+### [创客海社区官方1号店](https://letsflynow.taobao.com/)
+
 ### [B站地址](https://www.bilibili.com/video/BV1QK4y1t7h3)
 
 ### 👀Gitee仓库地址：[Gitee仓库地址](https://gitee.com/makermare/UAV-FlyingControlSystem-LightFlightControl)
@@ -13,6 +16,8 @@
 
 
 # MCS8051内核的MCU单片机例程
+
+### [新起点51单片机实验板购买](https://www.bilibili.com/video/BV1y54y1Z7uz)
 
 ### [B站地址](https://www.bilibili.com/video/BV1y54y1Z7uz)
 
