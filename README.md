@@ -19,7 +19,7 @@
 
 ### [新起点51单片机开发板购买](https://item.taobao.com/item.htm?id=677525446299)
 
-### [B站地址](https://www.bilibili.com/video/BV1y54y1Z7uz)
+### [B站地址](https://space.bilibili.com/167945395/channel/collectiondetail?sid=404615)
 
 ### 👀Gitee仓库地址：[Gitee仓库地址](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
 
