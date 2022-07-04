@@ -6,10 +6,14 @@
 因是高清视频课程、数据量大、不方便下载，请在B站在线收看和互动，课程在不断更新中，后续还要用这块51单片机开发板，再增添一个STM32单片机小模块，讲解STM32单片机视频教学课程，讲解STM32单片机开发，这样能为同学们节省几百块银子、我们讲解利用《魔方》软件、高效配置STM32单片机、减少STM32单片机库函数学习、开发STM32单片机非常高效。敬请同学期待！
 
 [所有视频课件网址](https://space.bilibili.com/167945395/channel/collectiondetail?sid=404615)
+
 所有例程和视频基于创客海的新起点51单片机实验板，淘宝店：
 店铺链接[创海社区官方1号店](https://letsflynow.taobao.com)
+
 店铺链接[创海社区官方2号店](https://myfange.taobao.com)
+
 您不错的入门C语言和单片机的好例程，购买地址[新起点51单片机开发板](https://item.taobao.com/item.htm?id=677525446299)
+
 
 # 二、课程安排：
 ### 0、入门篇：
@@ -32,11 +36,15 @@
 0、直接输入域名： makermare.com（提示：电信的宽带网、可能无法打开此网页、移动的宽带网、手机都能打开）。
 
 1、[国内版本网址](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
+
 或者复制网址https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel
 2、[国际版本网址](https://github.com/makermare/MCS8051-MCU-)
+
 或者复制网址https://github.com/makermare/MCS8051-MCU-
 3、[百度云链接](https://pan.baidu.com/s/1fgj5q9KIBYawQ2ZZx7tAFg?pwd=free)
+
 或者复制网址https://pan.baidu.com/s/1fgj5q9KIBYawQ2ZZx7tAFg?pwd=free
+
 
 # 五、所有课程的详细链接：按照从上到下的顺序逐一学习、可以在评论区互动哦
 
@@ -124,15 +132,19 @@
 
 # MCS8051内核的MCU单片机例程
 ### [创客海社区官方1号店](https://letsflynow.taobao.com/)
+
 ### [新起点51单片机开发板购买](https://item.taobao.com/item.htm?id=677525446299)
 
 ### [B站地址](https://space.bilibili.com/167945395/channel/collectiondetail?sid=404615)
 
 1、[国内版本网址](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
+
 或者复制网址https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel
 2、[国际版本网址](https://github.com/makermare/MCS8051-MCU-)
+
 或者复制网址https://github.com/makermare/MCS8051-MCU-
 3、[百度云链接](https://pan.baidu.com/s/1fgj5q9KIBYawQ2ZZx7tAFg?pwd=free)
+
 或者复制网址https://pan.baidu.com/s/1fgj5q9KIBYawQ2ZZx7tAFg?pwd=free
 
 ### 源码使用说明
