@@ -29,7 +29,7 @@
 
 1、[国内版本网址](https://gitee.com/makermare/mcu-routine-of-mcs8051-kernel)
 
-2、[国际版本网址](https://github.com/makermare/MCS8051-MCU)（提示：电信的宽带网、可能无法打开此网页、移动的宽带网、手机都能打开。）
+2、[国际版本网址](https://github.com/makermare/MCS8051-MCU-)
 
 # 五、所有课程的详细链接：按照从上到下的顺序逐一学习、可以在评论区互动哦
 
